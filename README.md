@@ -8,3 +8,5 @@
     - Java、Sqlite、SQL（使用 JDBC 實踐 database programing）
     
     - 使用 Java Swing 做 GUI 設計
+
+程式碼及書面報告在 “master" 分枝！
